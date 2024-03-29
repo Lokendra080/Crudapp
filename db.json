@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "b2d48519-e774-4146-a630-ba16fcff8584",
+      "name": "Pushkar",
+      "email": "nkmkluyhio@gmail.com"
+    },
+    {
+      "id": "996f4508-7c7f-48bf-a7c3-55829b5a99ea",
+      "name": "Chandan Kumar",
+      "email": "lkpushkar8285552593@gmail.com"
+    },
+    {
+      "id": "2f4aa2a9-4958-46cf-a935-0141c6b0ff9b",
+      "name": "ramesh kumar",
+      "email": "lokendra.kumar00@gmail.com"
+    }
+  ]
+}
